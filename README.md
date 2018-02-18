@@ -1,6 +1,7 @@
-# acronistrueimage
+# acronis true image
 Disconnect from the Internet
 Tap these keys:
+
 Acronis True Image 2013
 CBPTKC4Z-J34E9YXV-WCA7SSRJ-MNRW6WVC-HUA3URCL-5DU44SYG-GUBS2RC6-TT3Z9JVN
 
